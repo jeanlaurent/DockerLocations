@@ -14,7 +14,7 @@
         "name": "Docker, Brooklyn",
         "address": "240 Kent Ave, K3-A3, Brooklyn, NY 11249"
       }
-    }{
+    },{
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -27,7 +27,7 @@
         "name": "Docker, Madrid",
         "address": "Calle de O'Donnell, 18, 8º I, 28009 Madrid, Spain"
       }
-    }{
+    },{
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -40,7 +40,7 @@
         "name": "Docker, San Francisco",
         "address": "144 Townsend, San Francisco, CA 94107, USA"
       }
-    }{
+    },{
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -53,7 +53,7 @@
         "name": "Docker, Paris",
         "address": "15 rue Taitbout, Paris, France"
       }
-    }"type": "Feature",
+    },{"type": "Feature",
     "geometry": {
       "type": "Point",
       "coordinates": [
