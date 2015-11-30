@@ -1,6 +1,6 @@
 {
-  "type": "GeometryCollection",
-  "geometries": [
+  "type": "FeatureCollection",
+  "features": [
     {
       "type": "Feature",
       "geometry": {
