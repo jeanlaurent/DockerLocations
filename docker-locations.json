@@ -7,7 +7,6 @@
         "type": "Point",
         "coordinates": [
           -73.96550771875,40.7169176875
-          
         ]
       },
       "properties": {
@@ -19,8 +18,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.6940.4214203,-3.6769807
-          
+         -3.6769807,40.4214203
         ]
       },
       "properties": {
