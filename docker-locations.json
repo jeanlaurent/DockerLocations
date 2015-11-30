@@ -1,0 +1,65 @@
+{
+  "type": "GeometryCollection",
+  "geometries": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.716982,
+          -73.9678476
+        ]
+      },
+      "properties": {
+        "name": "Docker, Brooklyn""address": "240 Kent Ave, K3-A3, Brooklyn, NY 11249"
+      }
+    }{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.4214391,
+          -3.679238
+        ]
+      },
+      "properties": {
+        "name": "Docker, Madrid""address": "Calle de O'Donnell, 18, 8º I, 28009 Madrid, Spain"
+      }
+    }{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7801551,
+          -122.3941757
+        ]
+      },
+      "properties": {
+        "name": "Docker, San Francisco""address": "144 Townsend, San Francisco, CA 94107, USA"
+      }
+    }{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8722726,
+          2.3335079
+        ]
+      },
+      "properties": {
+        "name": "Docker, Paris""address": "15 rue Taitbout, Paris, France"
+      }
+    }"type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        51.5370481,
+        -0.078712
+      ]
+    },
+    "properties": {
+      "name": "Docker, London""address": "Studio 1, 1st floor, 258 Kingsland Road, London, E8 4DG"
+    }
+  }
+]
+}
